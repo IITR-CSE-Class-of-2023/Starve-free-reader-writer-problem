@@ -1,4 +1,4 @@
-                                     **  ##Starve free Reader writer problem **
+                                     Starve free Reader writer problem
                                       
 Readers-writers problem is a problem of process synchronization. In this problem there are two type of processes the Readers, which wants to read the shared resource and the Writers, which wants to modify the shared resourcse. There are three variations to this problem:
 
