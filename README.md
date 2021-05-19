@@ -63,3 +63,10 @@ __Critical section :__  Writer modifies the shared data.
 
 __Exit section :__ Writer releases the write_mutex semaphore.
 
+
+_To run code on linux use:_
+
+**gcc -pthread filename -o rw.out**
+
+**./rw.out**
+
